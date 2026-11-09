@@ -1,0 +1,3 @@
+queued 2026-11-09T00:57:50-05:00 engine /home/claude/swmm5-ports/perl/runswmm_saves.sh ids /home/claude/swmm5-ports/perl/gate/ids_s2.txt jobs 2
+started 2026-11-09T00:57:50-05:00
+ended 2026-11-09T01:32:39-05:00 rc=0

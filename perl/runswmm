@@ -1,0 +1,3 @@
+#!/bin/sh
+# runswmm - the Perl port's command line, as EPA's: runswmm <input file> <report file> [output file]
+exec perl "$(dirname "$0")/runswmm.pl" "$@"

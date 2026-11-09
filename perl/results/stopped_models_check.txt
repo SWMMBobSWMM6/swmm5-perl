@@ -1,0 +1,13 @@
+The two models stopped at the 1800 s limit, checked against EPA as far as they got (9 November 2026)
+
+pl_1g (the first full gate):
+fcdbc4886a73 EPA/72_H&H_Elements(2).inp: report 1500 of EPA's 1935 lines written; all 1499 complete lines identical to EPA's: True; the cut-off last line is the start of EPA's: True
+    .out: 0 of EPA's 440275 bytes written, identical to EPA's first 0 bytes: True (md5 of those bytes d41d8cd98f00b204e9800998ecf8427e)
+77e00bc268b0 Hydrology/SCANLON.inp: report 993 of EPA's 2976 lines written; all 992 complete lines identical to EPA's: True; the cut-off last line is the start of EPA's: True
+    .out: 36364288 of EPA's 78975850 bytes written, identical to EPA's first 36364288 bytes: True (md5 of those bytes 7dac4f0d7b299e41d7269336157bc8f5)
+
+pl_v_g (the rerun from the clean checkout): the same check
+fcdbc4886a73 EPA/72_H&H_Elements(2).inp: report 1500 of EPA's 1935 lines written; all 1499 complete lines identical to EPA's: True; the cut-off last line is the start of EPA's: True
+    .out: 0 of EPA's 440275 bytes written, identical to EPA's first 0 bytes: True (md5 of those bytes d41d8cd98f00b204e9800998ecf8427e)
+77e00bc268b0 Hydrology/SCANLON.inp: report 993 of EPA's 2976 lines written; all 992 complete lines identical to EPA's: True; the cut-off last line is the start of EPA's: True
+    .out: 34627584 of EPA's 78975850 bytes written, identical to EPA's first 34627584 bytes: True (md5 of those bytes ab67f051b277b1e7a87bb14217c41fd0)

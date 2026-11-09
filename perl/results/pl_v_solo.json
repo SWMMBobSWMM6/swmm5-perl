@@ -1,0 +1,20 @@
+[
+ {
+  "id": "a13e9d5589fb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/attenuation_DW_High_CE.inp",
+  "status": "PASS",
+  "sec": 1561.584,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "325fd17cef32",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/sewer_rdii_problem.inp",
+  "status": "PASS",
+  "sec": 953.411,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]
